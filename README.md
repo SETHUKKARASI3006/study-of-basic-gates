@@ -89,5 +89,5 @@ endmodule
 
 **RTL**
 ![rtl](/Screenshot%202024-04-02%20142615.png)
-**Result:**
+# Result:
 Hence the output was verfied successfully
